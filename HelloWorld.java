@@ -14,7 +14,7 @@ g.setColor(Color.white);
 g.fillRect(0,0,d.width,d.height);
 g.setColor(Color.black);
 g.setFont(f);
-drawCenteredString("Kutushev"
+drawCenteredString("18130453"
 		+"18130364"
 		+"18130466"
 		+"18130006", d.width, d.height, g);
